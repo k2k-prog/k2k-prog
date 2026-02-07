@@ -133,7 +133,7 @@ Système IoT complet de bout en bout pour le monitoring temps réel d'équipemen
 <!-- ![Dashboard Screenshot](./images/dashboard.png) -->
 <!-- ![Architecture Diagram](./images/architecture.png) -->
 
-**🔗 Lien vers le projet :** [Nom du repo à ajouter](#)
+**🔗 Lien vers le projet :** PPE_ESP32(#)
 
 ---
 
