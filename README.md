@@ -187,7 +187,7 @@ Application interactive développée sous Unity Engine (C#) avec architecture mo
 <!-- TODO: Ajouter captures d'écran de l'application ici -->
 <!-- ![Application Screenshot](./images/unity-app.png) -->
 
-**🔗 Lien vers le projet :** [Nom du repo à ajouter](#)
+**🔗 Lien vers le projet :** Disponible prochainement
 
 ---
 
